@@ -4,6 +4,8 @@
 
 **Prepared by: Robiul Awoul**
 
+> ⚠️ **Academic use only.** This repository is published **solely for Course LAB assignment submission purposes** under the **PMICS (Professional Masters in Information & Cyber Security) program, University of Dhaka.**
+
 ---
 
 ## Objective
@@ -578,7 +580,9 @@ This lab demonstrated a complete detection-engineering cycle. A two-VM environme
 
 ### Final Deliverable / Submission
 
-In line with the task sheet, this report together with all supporting screenshots is published to a public GitHub repository. The original formatted report is included as [`LAB-Assignment.docx`](LAB-Assignment.docx); this `README.md` reproduces it for in-browser reading, with all 43 screenshots in [`images/`](images/).
+In line with the task sheet, this report together with all supporting screenshots is published to a public GitHub repository. The original formatted report is included as [`LAB-Assignment.pdf`](LAB-Assignment.pdf); this `README.md` reproduces it for in-browser reading, with all 43 screenshots in [`images/`](images/).
+
+This repository is for **Course LAB assignment submission purposes only**, under the **PMICS (Professional Masters in Information & Cyber Security) program, University of Dhaka.**
 
 ---
 
