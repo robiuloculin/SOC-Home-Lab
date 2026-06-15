@@ -1,0 +1,10 @@
+# Normalize line endings: treat text files as LF in the repo
+* text=auto eol=lf
+
+# Treat report and image assets as binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.docx binary
